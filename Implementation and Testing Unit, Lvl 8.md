@@ -106,12 +106,12 @@ On the link below you will find the following BBC page with all of the following
 
 Click the link and cover the information provided on the 5 pages
 
-[Testing and documenting solutions]() 
+[Testing and documenting solutions](http://www.bbc.co.uk/education/guides/zpqpn39/revision/1) 
 
 This  following link covers meaningful identifiers, indentation, providing internal commentary
 
 
-[Good practices in programming]()
+[Good practices in programming](http://www.bbc.co.uk/education/guides/zpqpn39/revision/3)
 
 ```
 1.4 - Describe contemporary programming paradigms
