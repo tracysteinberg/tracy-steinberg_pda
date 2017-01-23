@@ -16,6 +16,10 @@ These are all the notes needed as part of the revision for the cognitive tests. 
 
 These are the lessons that are given to students over the 16 week course as part of the PDA prep, as well as assistance with general project planning. Guidance on various diagrams (formatting, minimum requirements, etc.) can be found in these lessons.
 
+> Policies and Procedures
+
+These are the documents that must be read by the student in order to agree with processes that the Professional Development Award follows. None of these documents need to be printed or completed by the student, just read.
+
 > Testing Exercises
 
 These are the testing exercises listed on the Implementation and Testing checklist that students are given at the start of the course. 
