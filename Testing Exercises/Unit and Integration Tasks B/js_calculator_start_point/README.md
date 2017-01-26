@@ -8,14 +8,21 @@ This is integrated into an HTML page that gives a 'calculator layout' of buttons
 
 The calculator object has properties to keep track of calculations as it performs them.
 
-You can run the code from the terminal with `npm start` or `node server.js`, you can then view the calculator at http://localhost:3000.
 
 ##SETUP:
 Run `npm install` to install all dependencies.
 
-You can run the unit tests from the terminal with `npm start`.
+You can run the code from the terminal with `npm start`, you can then view the calculator at http://localhost:3000.
 
-You can run the integration/acceptance tests from the terminal with `webdriver-manager start` and `protractor conf.js` in another terminal tab - the node server must also be running for this to work.
+You can run the unit tests from the terminal with `npm test`.
+
+To run the integration / browser tests:
+
+Run `npm run webdriver-update` to update the webdriver server that the integration tests run on.
+
+With your localhost:3000 server still running, open a new tab in Terminal and run `npm run webdriver`
+
+Leave that server running as well. Then run `npm run protractor` to run the integration tests.
 
 ##Tasks
 

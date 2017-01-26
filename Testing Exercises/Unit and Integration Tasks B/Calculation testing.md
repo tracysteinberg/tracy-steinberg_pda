@@ -18,11 +18,7 @@ This is integrated into an HTML page that gives a 'calculator layout' of buttons
 
 The calculator object has properties to keep track of calculations as it performs them.
 
-You can run the code from the terminal with `python -m SimpleHTTPServer`.
-
-You can run the unit test framework from the terminal with `karma start`.
-
-You can run the integration/acceptance test framework from the terminal with `webdriver-manager start` and `protractor protractor.conf.js` in another terminal.
+Check the README.md in the calculator code directory for instructions on how to run the code.
 
 
 ####Task 3: Unit Testing
