@@ -12,6 +12,8 @@ This is a back-up project that is for those who do not have enough evidence from
 
 These are all the notes needed as part of the revision for the cognitive tests. The cognitive tests are part of the Learning Objectives for the Analysis and Design as well as the Implementation and Testing units. Students should use these resources to revise for the tests.
 
+IMPORTANT: Students will complete these tests under exam conditions at a set point in the course. You will be advised by the instructors at what point these will be completed. These resources do not have to be read until indicated by the instructors.
+
 > PDA lessons
 
 These are the lessons that are given to students over the 16 week course as part of the PDA prep, as well as assistance with general project planning. Guidance on various diagrams (formatting, minimum requirements, etc.) can be found in these lessons.
@@ -23,7 +25,8 @@ These are the documents that must be read by the student in order to agree with 
 > Testing Exercises
 
 These are the testing exercises listed on the Implementation and Testing checklist that students are given at the start of the course. 
-IMPORTANT: Students should download the testing exercises to their computers and follow the directions and complete the exercises. The exercises should be saved in the PDA folder they created on their desktop in the first week. These will be collected by the Assessor’s using a USB.
+
+IMPORTANT: Students will complete these exercises later in the course. Do not complete these exercises until they have been explained and introduced by the instructors.
 
 > Student Checklists
 
