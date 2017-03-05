@@ -22,9 +22,9 @@ These are the lessons that are given to students over the 16 week course as part
 
 These are the documents that must be read by the student in order to agree with processes that the Professional Development Award follows. None of these documents need to be printed or completed by the student, just read.
 
-> Testing Exercises
+> Coding Exercises
 
-These are the testing exercises listed on the Implementation and Testing checklist that students are given at the start of the course. 
+These are the Coding exercises listed on the Implementation and Testing checklist that students are given at the start of the course. 
 
 IMPORTANT: Students will complete these exercises later in the course. Do not complete these exercises until they have been explained and introduced by the instructors.
 
