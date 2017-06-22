@@ -1,4 +1,4 @@
-##PDA Repository
+# PDA Repository
 
 This repository contains all the resources and information that CodeClan students need to access as part of the SQA Professional Development Award in Software Development.
 
