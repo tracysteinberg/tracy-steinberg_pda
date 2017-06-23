@@ -19,7 +19,7 @@
 
 	Carry out static testing on the attached text file of code (testing_task_1.md).  
 
-	Read through the code. Highlight any errors you can see but do not correct them in this file.
+	Read through the code. Comment any errors you can see but do not correct them in this file.
 
 
 
