@@ -1,6 +1,6 @@
-###Revision topics for the Analysis and Design Unit, Level 8, part 1
+### Revision topics for the Analysis and Design Unit, Level 8, part 1
 
-#####Outcome 1: Describe the use of analysis and design in the software development process
+##### Outcome 1: Describe the use of analysis and design in the software development process
 
 ```
 1.1 - Describe conventional and contemporary approaches to software development
@@ -23,32 +23,28 @@ Describe the Waterfall Development approach including the production of function
 Select an Agile approach such as Scrum or Kanban, produce an Agile Product Roadmap, use User Stories to capture requirements, produce a Product Backlog, manage and track progress, present results, seek feedback and reflect on future improvements.
 
 
-#####Reference material
+##### Reference material
 
 In the link you will find all of these topics covered;
 
-	*Waterfall
-	*Agile
-	*Prototyping
+	*Waterfall 
+	*Agile 
+	*Prototyping 
 	*Incremental
 	*Spiral
-	*RAD
-
-	
+	*RAD 
+  
 [Software Development Life Cycle](http://www.tutorialspoint.com/sdlc/index.htm)
 
 
+### Revision topics for the Analysis and Design Unit, Level 8, part 2
 
-###Revision topics for the Analysis and Design Unit, Level 8, part 2
-
-
-
-#####Outcome 1: Describe the use of analysis and design in the software development process
+##### Outcome 1: Describe the use of analysis and design in the software development process
 
 ```
 1.2 - Describe analysis and design tools and models
 
-Describe major Analysis and Design tools and models, including: 
+#### Describe major Analysis and Design tools and models, including: 
 ``` 
 [User Interface Design](http://www.usability.gov/what-and-why/user-interface-design.html)
 
@@ -59,7 +55,8 @@ Describe major Analysis and Design tools and models, including:
 [Data Dictionary](http://www.cs.unb.ca/profs/fritz/cs3503/dd.htm) and [Data Dictionary](https://blog.udemy.com/data-dictionary-example)
 
 
-Identify the characteristics of good program design
+#### Identify the characteristics of good program design
+
 The six main quality characteristics (according to an international standard for evaluating software quality) are:
 
 ```
@@ -73,6 +70,12 @@ Portability
 
 This article talks about these characteristics have been looked at in using Ruby:
 
-[Qualities of great software](https://practicingruby.com/articles/qualities-of-great-software)  
+[Qualities of great software](http://practicingruby.com/articles/qualities-of-great-software)  
+
+#### Identify Functional and non functional requirements. 
+
+The following article lists some common examples of functional and non-functional requirements. 
+
+[Functional and non-functional requirements](http://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/)
 
 
