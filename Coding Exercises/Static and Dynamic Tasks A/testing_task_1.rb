@@ -2,24 +2,24 @@
 
   Carry out static testing on the code below.  
   Read through the code.  Comment any errors you can see without correcting them.
-
+#My corrections
  
 def func1 val 
-  if val = 1
+  if val = 1            #should be ==
   return true
   else
   return false
   end
 end
   
-dif max a b
+dif max a b     #write as def max (a,b)
   if a > b
       return a 
   else
   b
   end 
-end 
-end 
+end             #delete end statement
+end             #delete end statement
   
 def looper 
   for i in 1..10
@@ -34,7 +34,7 @@ if looper == 10
 else
   puts "looper failed"
   failures = failures + 1
- 
+                              #add end statement at the end of function
   
 if func1(3) == false
   puts "func1(3) passed"
@@ -48,7 +48,7 @@ if max(100,1) == 100
   puts "max(100,1) passed"
 else
   puts "func1(3) failed"
-  failrues = failures + 1
+  failrues = failures + 1  #spelled failrues wrong 
 end
 
   
@@ -57,5 +57,5 @@ if failures
 else
   puts "Test Passed"
 end
-
+                      #Place end statement at end of file
 
